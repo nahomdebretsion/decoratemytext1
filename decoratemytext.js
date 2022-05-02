@@ -67,7 +67,7 @@ malkovitch.addEventListener("click", function () {
     for (let index = 0; index < word.length; index++) {
         
         if (word[index].length >= 5) {
-            newWords += "Malkovitch" + " ";
+            newWords += "nahom" + " ";
         }
         else{
             newWords += word[index] + " ";
